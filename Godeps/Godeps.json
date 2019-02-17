@@ -1,0 +1,6 @@
+{
+	"ImportPath": "herokuTest2",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": []
+}
